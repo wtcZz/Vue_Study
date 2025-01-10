@@ -1,24 +1,2 @@
-# study
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+自学的Vue3 源代码来自于《循序渐进Vue.js3.x前端开发实战》
+node_modules 文件夹太大  无法上传
